@@ -3,6 +3,7 @@ import turtle
 def draw_dragon():
     # Set up the turtle
     t = turtle.Turtle()
+    t = 0
     t.speed(0)
     t.hideturtle()
     t.penup()
